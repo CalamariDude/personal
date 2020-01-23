@@ -50,27 +50,27 @@ table {
 
 @font-face {
     font-family: Merriweather;
-    src: url(./fonts/Merriweather/Merriweather-Regular.ttf);
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
   }
   @font-face {
     font-family: Montserrat;
-    src: url(./fonts/Montserrat/Montserrat-Regular.ttf);
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
 }    
 @font-face {
     font-family: Anson;
-    src: url(./fonts/Anson/anson-regular.ttf);
+    src: url(../fonts/Anson/anson-regular.ttf);
 }  
 @font-face {
     font-family: Abel;
-    src: url(./fonts/Abel/Abel-Regular.ttf)
+    src: url(../fonts/Abel/Abel-Regular.ttf)
 }
 @font-face {
     font-family: Crimson-Text;
-    src: url(./fonts/Crimson_Text/CrimsonText-Regular.ttf)
+    src: url(../fonts/Crimson_Text/CrimsonText-Regular.ttf)
 }
 @font-face {
     font-family: Open-Sans-Condensed;
-    src: url(./fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf)
+    src: url(../fonts/Open_Sans_Condensed/OpenSansCondensed-Light.ttf)
 }
  
 
