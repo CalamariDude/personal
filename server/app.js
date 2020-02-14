@@ -6,4 +6,8 @@ app.use('/', express.static('./dist', {
   index: "index.html"
 }))
 
+app.use('/home', express.static('./dist', {
+  index: "index.html"
+}))
+
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))

@@ -60,6 +60,7 @@ table {
 }
 
 .landing {
+    margin-top: 2em;
     font-size: 28pt;
     display: flex;
     flex-direction: row;
